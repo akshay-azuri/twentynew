@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 2,
+  "dockerComposeFile": "packages/twenty-docker/docker-compose.yml",
+  "envFile": "packages/twenty-docker/.env"
+}
